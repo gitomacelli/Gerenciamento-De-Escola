@@ -10,7 +10,7 @@ O **Gerenciamento de Escola** é uma aplicação voltada para facilitar a admini
 - 📊 Geração de relatórios administrativos  
 
 ## 🛠️ Tecnologias Utilizadas  
-- [Linguagem utilizada] (Java)  
+- JAVA  
 
 ## 📦 Como Executar  
 1. Clone este repositório:  
